@@ -1,0 +1,1 @@
+This app shows how to create a standard error dialog that can be used to display errors from anywhere in your React application.
